@@ -30,6 +30,8 @@ In addition to the self-support options above, you can work with a NetApp Suppor
 
 . Choose one of the available options under Technical Support:
 
+.. Click *Call Us* if you'd like to speak with someone on the phone. You'll be directed to a page on netapp.com that lists the phone numbers that you can call.
+
 .. Click *Create a Case* to open a case with NetApp Support:
 +
 * *Service*: Select the service that the issue is associated with.
@@ -40,9 +42,6 @@ To learn more details about these priorities, hover your mouse over the informat
 * *Issue Description*: Provide a detailed description of your problem, including any applicable error messages or troubleshooting steps that you performed.
 * *Additional Email Addresses*: Enter additional email addresses if you'd like to make someone else aware of this issue.
 +
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-help-support.png[A screenshot of the Create a Case form that enables you to create a case with NetApp Support.]
-
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-create-case.png[A screenshot of the Create a Case form that enables you to create a case with NetApp Support.]
 +
 A NetApp representative will review your case and get back to you soon.
-
-.. Click *Call Us* if you'd rather talk to someone on the phone. You'll be directed to a page on netapp.com that lists the phone numbers that you can use.
