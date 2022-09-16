@@ -22,7 +22,11 @@ We value your input. Submit feedback to help us improve Cloud Manager.
 
 == NetApp support
 
-In addition to the self-support options above, you can work with a NetApp Support Engineer to resolve any issues after you activate support.
+In addition to the self-support options above, you can work with a NetApp Support specialist to resolve any issues after you activate support.
+
+.Before you get started
+
+To use the *Create a Case* capability, you must first perform a one-time registration of your Cloud Manager Account ID serial number (ie. 960xxxx) with NetApp. link:task-support-registration.html[Learn how to register for support].
 
 .Steps
 
@@ -32,10 +36,15 @@ In addition to the self-support options above, you can work with a NetApp Suppor
 
 .. Click *Call Us* if you'd like to speak with someone on the phone. You'll be directed to a page on netapp.com that lists the phone numbers that you can call.
 
-.. Click *Create a Case* to open a case with NetApp Support:
+.. Click *Create a Case* to open a ticket with a NetApp Support specialists:
 +
-* *Service*: Select the service that the issue is associated with.
-* *Working Environment*: If applicable, select the associated working environment. For example, select the Cloud Volumes ONTAP that you're experiencing an issue with.
+* *NetApp Support Site (NSS) Account*: Select the applicable NSS account associated with the person opening the support case. This person will be the primary contact for NetApp to reach out to, in addition to the additional emails provided below.
++
+If you don't see your NSS account, you can navigate to the *NSS Management* tab within Support section of Cloud Manager to add it there.
+* *Service*: Select the service that the issue is associated with. For example, Cloud Manager when specific to a technical support issue with workflows or functionality within the service.
+* *Working Environment*: If applicable to storage, select *Cloud Volumes ONTAP* or *On-Prem* and then the associated working environment.
++
+The list of working environments are within scope of the Cloud Manager Account, Workspace, and Connector you have selected in the top banner of the service.
 * *Case Priority*: Choose the priority for the case, which can be Low, Medium, High, or Critical.
 +
 To learn more details about these priorities, hover your mouse over the information icon next to the field name.
@@ -43,5 +52,18 @@ To learn more details about these priorities, hover your mouse over the informat
 * *Additional Email Addresses*: Enter additional email addresses if you'd like to make someone else aware of this issue.
 +
 image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-create-case.png[A screenshot of the Create a Case form that enables you to create a case with NetApp Support.]
-+
-A NetApp representative will review your case and get back to you soon.
+
+.After you finish
+
+A pop-up will appear with your support case number. A NetApp Support specialist will review your case and get back to you soon.
+
+For a history of your support cases, you can click *Settings > Timeline* and look for actions named "create support case." A button to the far right lets you expand the action to see details.
+
+It's possible that you might encounter the following error message when trying to create a case:
+
+"You are not authorized to Create a Case against the selected service"
+
+This error could mean that the NSS account and the company of record it's associated with is not the same company of record for the Cloud Manager Account serial number (ie. 960xxxx) or the working environment serial number. You can check your list of NSS accounts using the pen icon to find the right match or you can seek assistance using one of the following options:
+
+*	Use the in-product chat
+*	Submit a non-technical case at https://mysupport.netapp.com/site/help
