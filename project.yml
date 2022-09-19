@@ -64,7 +64,7 @@ product-family:
       icon: ./media/icon-api.png
       url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
       summary: "Programmatically administer your cloud-based resources."
-      tags: all, code
+      tags: all, code, automation
     - title: "AppTemplate"
       icon: ./media/icon-app-template.png
       url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
