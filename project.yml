@@ -1,10 +1,10 @@
 settings:
-  name: Cloud Manager
+  name: BlueXP
   platform: cloud
   search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-snapcenter,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-monitoring,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series
 sidebar:
   entries:
-    - title: All Cloud Manager documentation
+    - title: All BlueXP documentation
       url: /index.html
 product-family:
   sidebarlinks:
@@ -33,12 +33,12 @@ product-family:
     - title: "Set up and administration"
       icon: ./media/icon-docs.png
       url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
-      summary: "Learn how to start using Cloud Manager and administer Connectors, accounts, and more."
+      summary: "Learn how to start using BlueXP and administer Connectors, accounts, and more."
       tags: all, admin
     - title: "Release notes"
       icon: ./media/icon-docs.png
       url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
-      summary: "Learn what's new across all of Cloud Manager."
+      summary: "Learn what's new across all of BlueXP."
       tags: all
     - title: "Active IQ Digital Advisor"
       icon: ./media/icon-activeiq.png
@@ -58,7 +58,7 @@ product-family:
     - title: "AppTemplate"
       icon: ./media/icon-app-template.png
       url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
-      summary: "Automate actions in Cloud Manager to speed up provisioning and eliminate manual work."
+      summary: "Automate actions in BlueXP to speed up provisioning and eliminate manual work."
       tags: all, health
     - title: "Azure NetApp Files"
       icon: ./media/icon-anf.png
@@ -79,7 +79,7 @@ product-family:
       icon: ./media/icon-sync.png
       url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
       summary: "Sync data between on-prem and cloud data stores."
-      tags: all, aws, azure, gcp, replication
+      tags: all, aws, azure, gcp, mobility
     - title: "Cloud Tiering"
       icon: ./media/icon-tiering.png
       url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
@@ -120,6 +120,11 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-kubernetes/index.html
       summary: "Advanced data management of the Kubernetes clusters in your hybrid cloud."
       tags: all, storage, aws, azure
+    - title: "Cloud Insights"
+      icon: ./media/icon-monitoring.png
+      url: https://docs.netapp.com/us-en/cloudinsights/
+      summary: "Control the performance and utilization of your cloud workloads."
+      tags: all, monitoring
     - title: "On-prem ONTAP clusters"
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
