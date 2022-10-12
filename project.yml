@@ -75,6 +75,11 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-data-sense/index.html
       summary: "Get your application data and cloud environments privacy ready."
       tags: all, governance, aws, azure, gcp
+    - title: "Cloud Insights"
+      icon: ./media/icon-monitoring.png
+      url: https://docs.netapp.com/us-en/cloudinsights/
+      summary: "Control the performance and utilization of your cloud workloads."
+      tags: all, observability
     - title: "Cloud Sync"
       icon: ./media/icon-sync.png
       url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
@@ -120,11 +125,6 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-kubernetes/index.html
       summary: "Advanced data management of the Kubernetes clusters in your hybrid cloud."
       tags: all, storage, aws, azure
-    - title: "Cloud Insights"
-      icon: ./media/icon-monitoring.png
-      url: https://docs.netapp.com/us-en/cloudinsights/
-      summary: "Control the performance and utilization of your cloud workloads."
-      tags: all, monitoring
     - title: "On-prem ONTAP clusters"
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
