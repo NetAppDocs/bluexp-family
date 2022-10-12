@@ -23,10 +23,10 @@ product-family:
         tags: health
       - title: Mobility
         tags: mobility
-      - title: Protection
-        tags: protection
       - title: Observability
         tags: observability
+      - title: Protection
+        tags: protection
       - title: Storage
         tags: storage
   tiles:
