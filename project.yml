@@ -21,10 +21,10 @@ product-family:
         tags: governance
       - title: Health
         tags: health
-      - title: Mobility
-        tags: mobility
       - title: Insights
         tags: insights
+      - title: Mobility
+        tags: mobility
       - title: Protection
         tags: protection
       - title: Storage
