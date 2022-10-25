@@ -23,8 +23,8 @@ product-family:
         tags: health
       - title: Mobility
         tags: mobility
-      - title: Observability
-        tags: observability
+      - title: Insights
+        tags: insights
       - title: Protection
         tags: protection
       - title: Storage
@@ -79,7 +79,7 @@ product-family:
       icon: ./media/icon-monitoring.png
       url: https://docs.netapp.com/us-en/cloudinsights/
       summary: "Control the performance and utilization of your cloud workloads."
-      tags: all, observability
+      tags: all, insights
     - title: "Cloud Sync"
       icon: ./media/icon-sync.png
       url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
