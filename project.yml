@@ -30,10 +30,10 @@ product-family:
       - title: Storage
         tags: storage
   tiles:
-    - title: "Learn about BlueXP"
+    - title: "Welcome to BlueXP"
       icon: ./media/icon-docs.png
       url: concept-overview.html
-      summary: "Learn about BlueXP"
+      summary: "Learn about the introduction of BlueXP."
       tags: all
     - title: "Set up and administration"
       icon: ./media/icon-docs.png

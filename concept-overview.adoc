@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: concept-overview.html
-keywords: overview, bluexp, integration, cloud manager
-summary: "BlueXP (formerly Cloud Manager) enables you to build, protect, and govern your hybrid multicloud data estate from a single control plane."
+keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu
+summary: Cloud Manager is now BlueXP. BlueXP enables you to build, protect, and govern your hybrid multicloud data from a single control plane.
 ---
 
 = Welcome to NetApp BlueXP
@@ -13,11 +13,18 @@ summary: "BlueXP (formerly Cloud Manager) enables you to build, protect, and gov
 :imagesdir: ./media/
 
 [.lead]
-BlueXP (formerly Cloud Manager) enables you to build, protect, and govern your hybrid multicloud data estate from a single control plane.
+Cloud Manager is now BlueXP. BlueXP enables you to build, protect, and govern your hybrid multicloud data from a single control plane.
 
 == Unified management experience
 
-BlueXP enables you to manage all of your storage and data assets from a single interface. You can use BlueXP to create and administer cloud storage (for example, Cloud Volumes ONTAP and Azure NetApp Files), use NetApp's data services (for example, Cloud Backup and Cloud Data Sense), and control many on-prem and edge storage devices.
+BlueXP enables you to manage all of your storage and data assets from a single interface. 
+
+You can use BlueXP to create and administer cloud storage (for example, Cloud Volumes ONTAP and Azure NetApp Files), use NetApp's data services (for example, Cloud Backup and Cloud Data Sense), and control many on-prem and edge storage devices.
+
+*Learn more*
+
+* https://cloud.netapp.com[Learn more from the BlueXP website^]
+* https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html[Get started with BlueXP^] 
 
 == New navigation menu
 
@@ -30,10 +37,8 @@ image:screenshot-navigation-menu.png[A screenshot of the navigation menu in Blue
 * You can now manage more on-prem storage systems, such as E-Series and StorageGRID. 
 * You can use data services previously only available as a standalone service with a separate UI, such as Digital Advisor (formerly Active IQ).
 
-== Learn more
+*Learn more*
 
-* Learn more about BlueXP
-* Learn about Digital Advisor integration
-* Get started with BlueXP
-* Manage E-Series storage systems
-* Manage StorageGRID storage systems
+* https://docs.netapp.com/us-en/cloud-manager-e-series/index.html[Manage E-Series storage systems^]
+* https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html[Manage StorageGRID storage systems^]
+* https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html[Learn about Digital Advisor integration^]
