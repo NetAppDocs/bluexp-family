@@ -1,0 +1,39 @@
+---
+sidebar: sidebar
+permalink: concept-overview.html
+keywords: overview, bluexp, integration, cloud manager
+summary: "BlueXP (formerly Cloud Manager) enables you to build, protect, and govern your hybrid multicloud data estate from a single control plane."
+---
+
+= Welcome to NetApp BlueXP
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+BlueXP (formerly Cloud Manager) enables you to build, protect, and govern your hybrid multicloud data estate from a single control plane.
+
+== Unified management experience
+
+BlueXP enables you to manage all of your storage and data assets from a single interface. You can use BlueXP to create and administer cloud storage (for example, Cloud Volumes ONTAP and Azure NetApp Files), use NetApp's data services (for example, Cloud Backup and Cloud Data Sense), and control many on-prem and edge storage devices.
+
+== New navigation menu
+
+In BlueXP's navigation menu, data services are now organized by categories and are named according to their functionality. For example, you can access Cloud Sync by going to the *Mobility* category and selecting *Copy and sync*.
+
+image:screenshot-navigation-menu.png[A screenshot of the navigation menu in BlueXP that shows categories such as Storage and Health.]
+
+== New product integrations
+
+* You can now manage more on-prem storage systems, such as E-Series and StorageGRID. 
+* You can use data services previously only available as a standalone service with a separate UI, such as Digital Advisor (formerly Active IQ).
+
+== Learn more
+
+* Learn more about BlueXP
+* Learn about Digital Advisor integration
+* Get started with BlueXP
+* Manage E-Series storage systems
+* Manage StorageGRID storage systems
