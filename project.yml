@@ -45,7 +45,7 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
       summary: "Learn what's new across all of BlueXP."
       tags: all
-    - title: "Active IQ Digital Advisor"
+    - title: "Digital Advisor (formerly Active IQ)"
       icon: ./media/icon-activeiq.png
       url: https://docs.netapp.com/us-en/active-iq/index.html
       tags: all, health
