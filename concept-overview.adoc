@@ -1,0 +1,42 @@
+---
+sidebar: sidebar
+permalink: concept-overview.html
+keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu
+summary: Cloud Manager is now BlueXP. BlueXP enables you to build, protect, and govern your hybrid multicloud data from a single control plane.
+---
+
+= Welcome to NetApp BlueXP
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Cloud Manager is now called BlueXP. BlueXP enables you to build, protect, and govern your hybrid multicloud data from a single control plane.
+
+== Unified management experience
+
+BlueXP enables you to manage all of your storage and data assets from a single interface. 
+
+You can use BlueXP to create and administer cloud storage (for example, Cloud Volumes ONTAP and Azure NetApp Files), use data services (for example, Cloud Backup and Cloud Data Sense), and control many on-prem and edge storage devices.
+
+* https://cloud.netapp.com[Learn more from the BlueXP website^]
+* https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html[Get started with BlueXP^] 
+
+== New navigation menu
+
+In BlueXP's navigation menu, data services are now organized by categories and are named according to their functionality. For example, you can access Cloud Backup by going to the *Protection* category and selecting *Backup and recovery*.
+
+image:screenshot-navigation-menu.png[A screenshot of the navigation menu in BlueXP that shows categories such as Storage and Health.]
+
+== New product integrations
+
+* You can now manage more on-prem storage systems, such as E-Series and StorageGRID. 
+* You can now use data services previously only available as a standalone service with a separate UI, such as Digital Advisor (formerly Active IQ).
+
+*Learn more*
+
+* https://docs.netapp.com/us-en/cloud-manager-e-series/index.html[Manage E-Series storage systems^]
+* https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html[Manage StorageGRID storage systems^]
+* https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html[Learn about Digital Advisor integration^]
