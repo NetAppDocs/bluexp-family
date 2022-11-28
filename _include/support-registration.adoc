@@ -30,14 +30,14 @@ If you're brand new to NetApp, you must complete a one-time registration of your
 
 == Add an NSS account to BlueXP
 
-The Support Dashboard enables you to add and manage your NetApp Support Site accounts for use with Cloud Manager.
+The Support Dashboard enables you to add and manage your NetApp Support Site accounts for use with BlueXP.
 
-*	If you have a customer-level account, you can add one or more NSS accounts.
+* If you have a customer-level account, you can add one or more NSS accounts.
 
-*	If you have a partner or reseller account, you can add one or more NSS accounts, but they can’t be added alongside customer-level accounts.
+* If you have a partner or reseller account, you can add one or more NSS accounts, but they can't be added alongside customer-level accounts.
 
 .Steps
-
+ 
 . In the upper right of the BlueXP console, click the Help icon, and select *Support*.
 +
 image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-help-support.png[A screenshot of the Help menu where Support is the first option listed]
@@ -102,7 +102,7 @@ If you are brand new to NetApp and you don't have an NSS account, follow each st
 +
 image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-help-support.png[A screenshot of the Help menu where Support is the first option listed]
 
-. Locate your Cloud Manager account ID serial number from the Support Registration page.
+. Locate your account ID serial number from the Support Registration page.
 +
 image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-serial-number.png[A screenshot of the Help menu where Support is the first option listed]
 
@@ -112,7 +112,7 @@ image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/med
 
 .	In the *Product Line* field, select *Cloud Manager* and then select your applicable billing provider.
 
-.	Copy your Cloud Manager account serial number from step 2 above, complete the security check, and then confirm that you read NetApp's Global Data Privacy Policy.
+.	Copy your account serial number from step 2 above, complete the security check, and then confirm that you read NetApp's Global Data Privacy Policy.
 +
 An email is immediately sent to the mailbox provided to finalize this secure transaction. Be sure to check your spam folders if the validation email doesn't arrive in few minutes.
 
@@ -124,7 +124,7 @@ Confirming submits your request to NetApp and recommends that you create a NetAp
 
 .. Be sure to select the appropriate User Level, which is typically *NetApp Customer/End User*.
 
-.. Be sure to copy the Cloud Manager Account Serial number (960xxxx) used above for the serial number field. This will speed up the account processing.
+.. Be sure to copy the account serial number (960xxxx) used above for the serial number field. This will speed up the account processing.
 
 .After you finish
 
