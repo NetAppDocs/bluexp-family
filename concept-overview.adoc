@@ -32,11 +32,13 @@ image:screenshot-navigation-menu.png[A screenshot of the navigation menu in Blue
 
 == New product integrations
 
+* You can now manage the Amazon S3 buckets in the AWS accounts where the Connector is installed.
 * You can now manage more on-prem storage systems, such as E-Series and StorageGRID. 
 * You can now use data services previously only available as a standalone service with a separate UI, such as Digital Advisor (formerly Active IQ).
 
 *Learn more*
 
+* https://docs.netapp.com/us-en/bluexp-s3-storage/index.html[Manage Amazon S3 buckets^]
 * https://docs.netapp.com/us-en/cloud-manager-e-series/index.html[Manage E-Series storage systems^]
 * https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html[Manage StorageGRID storage systems^]
 * https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html[Learn about Digital Advisor integration^]
