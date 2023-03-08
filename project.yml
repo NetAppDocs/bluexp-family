@@ -50,7 +50,7 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
       summary: "Learn what's new across all of BlueXP."
       tags: all
-    - title: "Amazon FSx for ONTAP"
+    - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-fsx.png
       url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
       summary: "Use the full capabilities of ONTAP as a native, AWS-managed service."
@@ -65,41 +65,26 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
       summary: "Programmatically administer your cloud-based resources."
       tags: all, api
-    - title: "AppTemplate"
-      icon: ./media/icon-app-template.png
-      url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
-      summary: "Automate actions in BlueXP to speed up provisioning and eliminate manual work."
-      tags: all, health
     - title: "Azure NetApp Files"
       icon: ./media/icon-anf.png
       url: https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/index.html
       summary: "High-performance file storage service for your core business applications."
       tags: all, storage, azure
-    - title: "Cloud Backup"
+    - title: "Backup and recovery (Cloud Backup)"
       icon: ./media/icon-backup.png
       url: https://docs.netapp.com/us-en/cloud-manager-backup-restore/index.html
       summary: "Back up and restore cloud and on-prem data."
       tags: all, aws, azure, gcp, protection
-    - title: "Cloud Data Sense"
+    - title: "Classification (Cloud Data Sense)"
       icon: ./media/icon-data-sense.png
       url: https://docs.netapp.com/us-en/cloud-manager-data-sense/index.html
       summary: "Get your application data and cloud environments privacy ready."
       tags: all, governance, aws, azure, gcp
-    - title: "Cloud Insights"
-      icon: ./media/icon-monitoring.png
-      url: https://docs.netapp.com/us-en/cloudinsights/
-      summary: "Control the performance and utilization of your cloud workloads."
-      tags: all, insights
-    - title: "Cloud Sync"
-      icon: ./media/icon-sync.png
-      url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
-      summary: "Sync data between on-prem and cloud data stores."
-      tags: all, aws, azure, gcp, mobility
-    - title: "Cloud Tiering"
-      icon: ./media/icon-tiering.png
-      url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
-      summary: "Extend your on-prem ONTAP storage to the cloud."
-      tags: all, aws, azure, gcp, mobility
+    - title: "Cloud ops (Compute)"
+      icon: ./media/icon-compute.png
+      url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
+      summary: "Gain visibility into your cloud compute spending and identify potential savings."
+      tags: all, aws, extension
     - title: "Cloud Volumes ONTAP"
       icon: ./media/icon-cvo.png
       url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
@@ -115,12 +100,12 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/index.html
       summary: "Secure, protect, and accelerate your file storage."
       tags: all, storage, gcp
-    - title: "Compute"
-      icon: ./media/icon-compute.png
-      url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
-      summary: "Gain visibility into your cloud compute spending and identify potential savings."
-      tags: all, aws, extension
-    - title: "Digital Advisor (formerly Active IQ)"
+    - title: "Copy and sync (Cloud Sync)"
+      icon: ./media/icon-sync.png
+      url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
+      summary: "Sync data between on-prem and cloud data stores."
+      tags: all, aws, azure, gcp, mobility
+    - title: "Digital advisor (Active IQ)"
       icon: ./media/icon-activeiq.png
       url: https://docs.netapp.com/us-en/active-iq/index.html
       tags: all, health
@@ -130,7 +115,7 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
       summary: "Discover E-Series systems for a complete view of data across your hybrid multicloud."
       tags: all, storage
-    - title: "Global File Cache"
+    - title: "Edge caching (Global File Cache)"
       icon: ./media/icon-cache.png
       url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
       summary: "Enable real-time global file sharing for your distributed workforce."
@@ -140,16 +125,26 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-kubernetes/index.html
       summary: "Advanced data management of the Kubernetes clusters in your hybrid cloud."
       tags: all, storage, aws, azure
+    - title: "Observability (Cloud Insights)"
+      icon: ./media/icon-monitoring.png
+      url: https://docs.netapp.com/us-en/cloudinsights/
+      summary: "Control the performance and utilization of your cloud workloads."
+      tags: all, insights
     - title: "On-prem ONTAP clusters"
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
       summary: "Manage your NetApp AFF and FAS systems from BlueXP by using System Manager and BlueXP's data services."
       tags: all, storage
-    - title: "Ransomware Protection"
+    - title: "Ransomware protection"
       icon: ./media/icon-ransomware.png
       url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
       summary: "Assess how resilient your data is to a cyber attack."
       tags: all, protection
+    - title: "Remediation (AppTemplate)"
+      icon: ./media/icon-app-template.png
+      url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
+      summary: "Automate actions in BlueXP to speed up provisioning and eliminate manual work."
+      tags: all, health
     - title: "Replication"
       icon: ./media/icon-replication.png
       url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
@@ -160,3 +155,8 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
       summary: "Discover and manage your StorageGRID systems."
       tags: all, storage
+    - title: "Tiering (Cloud Tiering)"
+      icon: ./media/icon-tiering.png
+      url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
+      summary: "Extend your on-prem ONTAP storage to the cloud."
+      tags: all, aws, azure, gcp, mobility
