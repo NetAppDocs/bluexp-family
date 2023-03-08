@@ -1,8 +1,8 @@
 ---
 layout: product-family
 permalink: index.html
-lead: "BlueXP (formerly Cloud Manager) provides IT experts and cloud architects with a centralized control plane to manage, monitor, and automate data in hybrid multicloud environments. Browse the docs by product area or use the search above to find content anywhere in the BlueXP docs."
-summary: "BlueXP (formerly Cloud Manager) provides IT experts and cloud architects with a centralized control plane to manage, monitor, and automate data in hybrid multicloud environments. Browse the docs by product area or use the search above to find content anywhere in the BlueXP docs."
+lead: "BlueXP (for previous Cloud Manager users) provides IT experts and cloud architects with a centralized control plane to manage, monitor, and automate data in hybrid multicloud environments. Browse the docs by product area or use the search above to find content anywhere in the BlueXP docs."
+summary: "BlueXP (for previous Cloud Manager users) provides IT experts and cloud architects with a centralized control plane to manage, monitor, and automate data in hybrid multicloud environments. Browse the docs by product area or use the search above to find content anywhere in the BlueXP docs."
 ---
 
 = BlueXP documentation
