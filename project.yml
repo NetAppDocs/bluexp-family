@@ -130,6 +130,11 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
       summary: "Discover E-Series systems for a complete view of data across your hybrid multicloud."
       tags: all, storage
+    - title: "Economic efficiency"
+      icon: ./media/icon-economic-efficiency.png
+      url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
+      summary: "??"
+      tags: all, governance
     - title: "Global File Cache"
       icon: ./media/icon-cache.png
       url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
@@ -145,6 +150,11 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
       summary: "Manage your NetApp AFF and FAS systems from BlueXP by using System Manager and BlueXP's data services."
       tags: all, storage
+    - title: "Operational resiliency"
+      icon: ./media/icon-op-resiliency.png
+      url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
+      summary: "??"
+      tags: all, health
     - title: "Ransomware Protection"
       icon: ./media/icon-ransomware.png
       url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
