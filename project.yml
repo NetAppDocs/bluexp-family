@@ -159,7 +159,7 @@ product-family:
       icon: ./media/icon-ransomware.png
       url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
       summary: "Assess how resilient your data is to a cyber attack."
-      tags: all, protection
+      tags: all, governance
     - title: "Replication"
       icon: ./media/icon-replication.png
       url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
