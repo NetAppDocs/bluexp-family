@@ -133,7 +133,7 @@ product-family:
     - title: "Economic efficiency"
       icon: ./media/icon-economic-efficiency.png
       url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
-      summary: "??"
+      summary: "Identify clusters with current or forecasted low capacity and implement data tiering or additional capacity recommendations."
       tags: all, governance
     - title: "Global File Cache"
       icon: ./media/icon-cache.png
@@ -153,7 +153,7 @@ product-family:
     - title: "Operational resiliency"
       icon: ./media/icon-op-resiliency.png
       url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
-      summary: "??"
+      summary: "Implement automated firmware and software configuration risk remediations to maintain the health of your NetApp ONTAP clusters."
       tags: all, health
     - title: "Ransomware Protection"
       icon: ./media/icon-ransomware.png
