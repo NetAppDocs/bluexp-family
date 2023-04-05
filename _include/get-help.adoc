@@ -56,6 +56,10 @@ To learn more details about these priorities, hover your mouse over the informat
 
 * *Additional Email Addresses*: Enter additional email addresses if you'd like to make someone else aware of this issue.
 
+* *Attachment (Optional)*: Upload up to five attachments, one at a time.
++
+Attachments are limited to 25 MB per file. The following file extensions are supported: txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx, and csv.
+
 +
 image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-create-case.png[A screenshot of the Create a Case form that enables you to create a case with NetApp Support.]
 
@@ -124,7 +128,9 @@ image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/med
 
 * *View case*: View full details about a specific case.
 
-* *Update case notes*: Provide additional details about your problem.
+* *Update case notes*: Provide additional details about your problem or select *Upload files* to attach up to a maximum of five files.
++
+Attachments are limited to 25 MB per file. The following file extensions are supported: txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx, and csv.
 
 * *Close case*: Provide details about why you're closing the case and click *Close case*.
 
