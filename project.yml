@@ -41,7 +41,7 @@ product-family:
       summary: "Learn about the introduction of BlueXP."
       tags: all
     - title: "Set up and administration"
-      icon: ./media/icon-docs.png
+      icon: ./media/icon-admin.png
       url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
       summary: "Learn how to start using BlueXP and administer Connectors, accounts, and more."
       tags: all, admin
@@ -126,7 +126,7 @@ product-family:
       tags: all, health
       summary: "Actionable intelligence for optimal storage health."
     - title: "E-Series systems"
-      icon: ./media/icon-onprem.png
+      icon: ./media/icon-e-series.png
       url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
       summary: "Discover E-Series systems for a complete view of data across your hybrid multicloud."
       tags: all, storage
@@ -166,7 +166,7 @@ product-family:
       summary: "Replicate data between storage systems to support backup and disaster recovery."
       tags: all, protection
     - title: "StorageGRID"
-      icon: ./media/icon-onprem.png
+      icon: ./media/icon-storagegrid.png
       url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
       summary: "Discover and manage your StorageGRID systems."
       tags: all, storage
