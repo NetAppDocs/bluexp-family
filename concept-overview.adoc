@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: concept-overview.html
 keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu
-summary: Cloud Manager is now BlueXP. BlueXP enables you to build, protect, and govern your hybrid multicloud data from a single control plane.
+summary: "NetApp BlueXP is an evolution of Cloud Manager. BlueXP is a unified control plane that provides a hybrid multicloud experience for storage and data services across on-premises and cloud environments."
 ---
 
 = Welcome to NetApp BlueXP
@@ -13,7 +13,7 @@ summary: Cloud Manager is now BlueXP. BlueXP enables you to build, protect, and 
 :imagesdir: ./media/
 
 [.lead]
-Cloud Manager is now called BlueXP. BlueXP enables you to build, protect, and govern your hybrid multicloud data from a single control plane.
+NetApp BlueXP is an evolution of Cloud Manager. BlueXP is a unified control plane that provides a hybrid multicloud experience for storage and data services across on-premises and cloud environments.
 
 == Unified management experience
 

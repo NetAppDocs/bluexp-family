@@ -41,7 +41,7 @@ product-family:
       summary: "Learn about the introduction of BlueXP."
       tags: all
     - title: "Set up and administration"
-      icon: ./media/icon-docs.png
+      icon: ./media/icon-admin.png
       url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
       summary: "Learn how to start using BlueXP and administer Connectors, accounts, and more."
       tags: all, admin
@@ -145,7 +145,7 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-kubernetes/index.html
       summary: "Advanced data management of the Kubernetes clusters in your hybrid cloud."
       tags: all, storage, aws, azure
-    - title: "On-prem ONTAP clusters"
+    - title: "On-premises ONTAP clusters"
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
       summary: "Manage your NetApp AFF and FAS systems from BlueXP by using System Manager and BlueXP's data services."
