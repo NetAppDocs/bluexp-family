@@ -40,7 +40,7 @@ product-family:
       url: concept-overview.html
       summary: "Learn about the introduction of BlueXP."
       tags: all
-    - title: "Set up and administration"
+    - title: "Setup and administration"
       icon: ./media/icon-admin.png
       url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
       summary: "Learn how to start using BlueXP and administer Connectors, accounts, and more."
