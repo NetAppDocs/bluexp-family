@@ -40,7 +40,7 @@ product-family:
       url: concept-overview.html
       summary: "Learn about the introduction of BlueXP."
       tags: all
-    - title: "Set up and administration"
+    - title: "Setup and administration"
       icon: ./media/icon-admin.png
       url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
       summary: "Learn how to start using BlueXP and administer Connectors, accounts, and more."
@@ -105,6 +105,11 @@ product-family:
       url: https://docs.netapp.com/us-en/active-iq/index.html
       tags: all, health
       summary: "Actionable intelligence for optimal storage health."
+    - title: "Digital Wallet"
+      icon: ./media/digital-wallet.png
+      url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
+      tags: all, governance
+      summary: "Manage and monitor your licenses and subscriptions."
     - title: "E-Series systems"
       icon: ./media/icon-e-series.png
       url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
