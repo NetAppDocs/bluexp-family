@@ -90,6 +90,11 @@ product-family:
       url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
       summary: "Make your cloud storage more affordable, intelligent, compliant, and secure."
       tags: all, storage, aws, azure, gcp
+    - title: "Cloud Volumes Service for AWS"
+      icon: ./media/icon-cvs.png
+      url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-aws/index.html
+      summary: "A cloud native file service with all-flash performance."
+      tags: all, storage, aws
     - title: "Cloud Volumes Service for Google Cloud"
       icon: ./media/icon-cvs.png
       url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/index.html
