@@ -105,7 +105,7 @@ product-family:
       url: https://docs.netapp.com/us-en/active-iq/index.html
       tags: all, health
       summary: "Actionable intelligence for optimal storage health."
-    - title: "Digital Wallet"
+    - title: "Digital wallet"
       icon: ./media/digital-wallet.png
       url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
       tags: all, governance
