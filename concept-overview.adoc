@@ -13,7 +13,7 @@ summary: "NetApp BlueXP is an evolution of Cloud Manager. BlueXP is a unified co
 :imagesdir: ./media/
 
 [.lead]
-NetApp® BlueXP™ is an evolution of Cloud Manager. BlueXP is a unified control plane that provides a hybrid multicloud experience for storage and data services across on-premises and cloud environments.
+NetApp BlueXP is an evolution of Cloud Manager. BlueXP is a unified control plane that provides a hybrid multicloud experience for storage and data services across on-premises and cloud environments.
 
 == Unified management experience
 
