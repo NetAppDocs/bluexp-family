@@ -1,6 +1,7 @@
 Before you can open a support case with NetApp technical support, you need to add a NetApp Support Site (NSS) account to BlueXP and then register for support.
 
 == Support for cloud provider solutions
+
 For technical support on the following cloud provider solutions you've integrated into BlueXP, refer to “Getting help” in the BlueXP documentation for that product. 
 
 * link:https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/start/concept-fsx-aws.html#getting-help[Amazon FSx for ONTAP^]
