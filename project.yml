@@ -128,6 +128,11 @@ product-family:
       url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
       summary: "Advanced data management of the Kubernetes clusters in your hybrid cloud."
       tags: all,storage,aws,azure
+    - title: "Migration reports"
+      icon: ./media/icon-reports.png
+      url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+      summary: "Identify the number of files, depth and breadth of file system trees, largest files, and more in your storage landscape."
+      tags: all,storage
     - title: "On-premises ONTAP clusters"
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
