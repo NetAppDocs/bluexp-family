@@ -4,6 +4,10 @@ NetApp provides support for BlueXP and its cloud services in a variety of ways. 
 
 These options are available for free, 24 hours a day, 7 days a week:
 
+* Documentation
++
+The BlueXP documentation that you're currently viewing.
+
 * https://kb.netapp.com/Cloud/BlueXP[Knowledge base^]
 +
 Search through the BlueXP knowledge base to find helpful articles to troubleshoot issues.
@@ -11,10 +15,6 @@ Search through the BlueXP knowledge base to find helpful articles to troubleshoo
 * http://community.netapp.com/[Communities^]
 +
 Join the BlueXP community to follow ongoing discussions or create new ones.
-
-* Documentation
-+
-The BlueXP documentation that you're currently viewing.
 
 * mailto:ng-cloudmanager-feedback@netapp.com[Feedback email]
 +
@@ -26,7 +26,9 @@ In addition to the self-support options above, you can work with a NetApp Suppor
 
 .Before you get started
 
-To use the *Create a Case* capability, you must first perform a one-time registration of your BlueXP Account ID serial number (ie. 960xxxx) with NetApp. link:task-support-registration.html[Learn how to register for support].
+* To use the *Create a Case* capability, you must first associate your NetApp Support Site credentials with your BlueXP login. https://docs.netapp.com/us-en/bluexp-setup-admin/task-manage-user-credentials.html[Learn how to manage credentials associated with your BlueXP login^].
+
+* If you're opening a case for an ONTAP system that has a serial number, then your NSS account must be associated with the serial number for that system.
 
 .Steps
 
@@ -38,10 +40,6 @@ To use the *Create a Case* capability, you must first perform a one-time registr
 
 .. Click *Create a Case* to open a ticket with a NetApp Support specialist:
 +
-* *NetApp Support Site Account*: Select the applicable NSS account associated with the person opening the support case. This person will be the primary contact for NetApp to reach out to, in addition to the additional emails provided below.
-+
-If you don't see your NSS account, you can navigate to the *NSS Management* tab within Support section of BlueXP to add it there.
-
 * *Service*: Select the service that the issue is associated with. For example, BlueXP when specific to a technical support issue with workflows or functionality within the service.
 
 * *Working Environment*: If applicable to storage, select *Cloud Volumes ONTAP* or *On-Prem* and then the associated working environment.
@@ -73,7 +71,7 @@ It's possible that you might encounter the following error message when trying t
 
 "You are not authorized to Create a Case against the selected service"
 
-This error could mean that the NSS account and the company of record it's associated with is not the same company of record for the BlueXP account serial number (ie. 960xxxx) or the working environment serial number. You can check your list of NSS accounts at the top of the *Create a Case* form to find the right match, or you can seek assistance using one of the following options:
+This error could mean that the NSS account and the company of record it's associated with is not the same company of record for the BlueXP account serial number (ie. 960xxxx) or the working environment serial number. You can seek assistance using one of the following options:
 
 * Use the in-product chat
 * Submit a non-technical case at https://mysupport.netapp.com/site/help
