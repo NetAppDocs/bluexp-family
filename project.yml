@@ -63,6 +63,11 @@ product-family:
       url: https://docs.netapp.com/us-en/bluexp-automation/index.html
       summary: "Programmatically administer your cloud-based resources."
       tags: all,api
+    - title: "Azure Blob storage"
+      icon: ./media/icon-azure-blob.png
+      url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
+      summary: "Discover and manage Azure Blob storage in your Azure subscriptions."
+      tags: all,storage
     - title: "Azure NetApp Files"
       icon: ./media/icon-anf.png
       url: https://docs.netapp.com/us-en/bluexp-azure-netapp-files/index.html
@@ -128,6 +133,11 @@ product-family:
       url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
       summary: "Advanced data management of the Kubernetes clusters in your hybrid cloud."
       tags: all,storage,aws,azure
+    - title: "Migration reports"
+      icon: ./media/icon-reports.png
+      url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+      summary: "Identify the number of files, depth and breadth of file system trees, largest files, and more in your storage landscape."
+      tags: all,storage
     - title: "On-premises ONTAP clusters"
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
