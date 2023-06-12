@@ -155,7 +155,7 @@ product-family:
       tags: all,governance,protection
     - title: "Remediation (AppTemplate)"
       icon: ./media/icon-app-template.png
-      url: https://docs.netapp.com/us-en/bluexp-remediation/index.html
+      url:  
       summary: "Automate actions in BlueXP to speed up provisioning and eliminate manual work."
       tags: all,health
     - title: "Replication"
@@ -170,7 +170,7 @@ product-family:
       tags: all,storage
     - title: "Sustainability dashboard"
       icon: ./media/icon-sustainability.png
-      url: https://review.docs.netapp.com/us-en/active-iq_june-2023-sustainability/concept_understand_sustainability_dashboard.html
+      url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
       summary: "Analyze the sustainability of your storage system."
       tags: all,health 
     - title: "Tiering (Cloud Tiering)"
