@@ -172,7 +172,7 @@ product-family:
       icon: ./media/icon-sustainability.png
       url: https://review.docs.netapp.com/us-en/active-iq_june-2023-sustainability/concept_understand_sustainability_dashboard.html
       summary: "Analyze the sustainability of your storage system."
-      tags: all,sustainability 
+      tags: all,health 
     - title: "Tiering (Cloud Tiering)"
       icon: ./media/icon-tiering.png
       url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
