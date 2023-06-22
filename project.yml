@@ -155,7 +155,7 @@ product-family:
       tags: all,governance,protection
     - title: "Remediation (AppTemplate)"
       icon: ./media/icon-app-template.png
-      url:  
+      url: https://docs.netapp.com/us-en/bluexp-remediation/index.html 
       summary: "Automate actions in BlueXP to speed up provisioning and eliminate manual work."
       tags: all,health
     - title: "Replication"
