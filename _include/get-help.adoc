@@ -32,13 +32,13 @@ In addition to the self-support options above, you can work with a NetApp Suppor
 
 .Steps
 
-. In BlueXP, click *Help > Support*.
+. In BlueXP, select *Help > Support*.
 
 . On the *Resources* page, choose one of the available options under Technical Support:
 
-.. Click *Call Us* if you'd like to speak with someone on the phone. You'll be directed to a page on netapp.com that lists the phone numbers that you can call.
+.. Select *Call Us* if you'd like to speak with someone on the phone. You'll be directed to a page on netapp.com that lists the phone numbers that you can call.
 
-.. Click *Create a Case* to open a ticket with a NetApp Support specialist:
+.. Select *Create a Case* to open a ticket with a NetApp Support specialist:
 +
 * *Service*: Select the service that the issue is associated with. For example, BlueXP when specific to a technical support issue with workflows or functionality within the service.
 
@@ -65,7 +65,7 @@ image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/scre
 
 A pop-up will appear with your support case number. A NetApp Support specialist will review your case and get back to you soon.
 
-For a history of your support cases, you can click *Settings > Timeline* and look for actions named "create support case." A button to the far right lets you expand the action to see details.
+For a history of your support cases, you can select *Settings > Timeline* and look for actions named "create support case." A button to the far right lets you expand the action to see details.
 
 It's possible that you might encounter the following error message when trying to create a case:
 
@@ -100,15 +100,15 @@ View the steps below for more details.
 
 .Steps
 
-. In BlueXP, click *Help > Support*.
+. In BlueXP, select *Help > Support*.
 
-. Click *Case Management* and if you're prompted, add your NSS account to BlueXP.
+. Select *Case Management* and if you're prompted, add your NSS account to BlueXP.
 +
 The *Case management* page shows open cases related to the NSS account that is associated with your BlueXP user account. This is the same NSS account that appears at the top of the *NSS management* page.
 
 . Optionally modify the information that displays in the table:
 
-* Under *Organization's cases*, click *View* to view all cases associated with your company.
+* Under *Organization's cases*, select *View* to view all cases associated with your company.
 
 * Modify the date range by choosing an exact date range or by choosing a different time frame. 
 +
@@ -118,11 +118,11 @@ image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/scre
 +
 image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/screenshot-case-management-filter.png[A screenshot of the filter option in the Status column that enables you to filter out cases that match a specific status such as Active or Closed.]
 
-* Change the columns that appear in the table by clicking image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/icon-table-columns.png[The plus icon that appears in the table] and then choosing the columns that you'd like to display.
+* Change the columns that appear in the table by selecting image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/icon-table-columns.png[The plus icon that appears in the table] and then choosing the columns that you'd like to display.
 +
 image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/screenshot-case-management-columns.png[A screenshot that shows the columns that you can show in the table.]
 
-. Manage an existing case by clicking image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/icon-table-action.png[An icon with three dots that appears in the last column of the table] and selecting one of the available options:
+. Manage an existing case by selecting image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/icon-table-action.png[An icon with three dots that appears in the last column of the table] and selecting one of the available options:
 
 * *View case*: View full details about a specific case.
 
@@ -130,7 +130,7 @@ image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/scre
 +
 Attachments are limited to 25 MB per file. The following file extensions are supported: txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx, and csv.
 
-* *Close case*: Provide details about why you're closing the case and click *Close case*.
+* *Close case*: Provide details about why you're closing the case and select *Close case*.
 
 +
 image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/screenshot-case-management-actions.png[A screenshot that shows the actions that you can take after selecting the menu in the last column of the table.]
