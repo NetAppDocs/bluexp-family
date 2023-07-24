@@ -32,13 +32,13 @@ If you're a NetApp customer with an NSS account, you simply need to register for
 
 .Steps
 
-. In the upper right of the BlueXP console, click the Settings icon, and select *Credentials*.
+. In the upper right of the BlueXP console, select the Settings icon, and select *Credentials*.
 
-. Click *User Credentials*.
+. Select *User Credentials*.
 
 . Select *Add NSS credentials* and follow the NetApp Support Site (NSS) Authentication prompt.
 
-. To confirm that the registration process was successful, click the Help icon, and select *Support*.
+. To confirm that the registration process was successful, select the Help icon, and select *Support*.
 +
 The *Resources* page should show that your account is registered for support.
 +
@@ -66,7 +66,7 @@ If you are brand new to NetApp and you don't have an NSS account, follow each st
 
 .Steps
 
-. In the upper right of the BlueXP console, click the Help icon, and select *Support*.
+. In the upper right of the BlueXP console, select the Help icon, and select *Support*.
 +
 image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/screenshot-help-support.png[A screenshot of the Help menu where Support is the first option listed]
 
@@ -124,13 +124,13 @@ These NSS credentials are associated with your specific BlueXP account ID. Users
 
 .Steps
  
-. In the upper right of the BlueXP console, click the Help icon, and select *Support*.
+. In the upper right of the BlueXP console, select the Help icon, and select *Support*.
 +
 image:https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/media/screenshot-help-support.png[A screenshot of the Help menu where Support is the first option listed]
 
-. Click *NSS Management > Add NSS Account*.
+. Select *NSS Management > Add NSS Account*.
 
-. When you're prompted, click *Continue* to be redirected to a Microsoft login page.
+. When you're prompted, select *Continue* to be redirected to a Microsoft login page.
 +
 NetApp uses Microsoft Azure Active Directory as the identity provider for authentication services specific to support and licensing.
 
