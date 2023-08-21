@@ -22,7 +22,7 @@ BlueXP enables you to manage all of your storage and data assets from a single i
 You can use BlueXP to create and administer cloud storage (for example, Cloud Volumes ONTAP and Azure NetApp Files), to move, protect, and analyze data, and to control many on-prem and edge storage devices.
 
 * https://cloud.netapp.com[Learn more from the BlueXP website^]
-* https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html[Get started with BlueXP^] 
+* https://docs.netapp.com/us-en/bluexp-setup-admin/index.html[Get started with BlueXP^] 
 
 == New navigation menu
 
@@ -39,6 +39,6 @@ image:screenshot-navigation-menu.png[A screenshot of the navigation menu in Blue
 *Learn more*
 
 * https://docs.netapp.com/us-en/bluexp-s3-storage/index.html[Manage Amazon S3 buckets^]
-* https://docs.netapp.com/us-en/cloud-manager-e-series/index.html[Manage E-Series storage systems^]
-* https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html[Manage StorageGRID storage systems^]
+* https://docs.netapp.com/us-en/bluexp-e-series/index.html[Manage E-Series storage systems^]
+* https://docs.netapp.com/us-en/bluexp-storagegrid/index.html[Manage StorageGRID storage systems^]
 * https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html[Learn about Digital Advisor integration^]
