@@ -1,7 +1,7 @@
 settings:
   name: BlueXP
   platform: cloud
-  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet
+  search: bluexp-relnotes,bluexp-setup-admin,bluexp-cloud-volumes-ontap,bluexp-ontap-onprem,bluexp-azure-netapp-files,bluexp-fsx-ontap,bluexp-cloud-volumes-service-gcp,bluexp-kubernetes,bluexp-remediation,bluexp-backup-recovery,bluexp-copy-sync,bluexp-classification,bluexp-tiering,bluexp-ransomware-protection,bluexp-replication,bluexp-edge-caching,bluexp-cloud-ops,bluexp-automation,cloud-volumes-ontap-relnotes,bluexp-storagegrid,bluexp-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet,bluexp-blob-storage,bluexp-reports,bluexp-volume-caching
   internal:
     pdf_enabled: false
   prod:
@@ -26,8 +26,6 @@ product-family:
         tags: governance
       - title: Health
         tags: health
-      - title: Insights
-        tags: insights
       - title: Mobility
         tags: mobility
       - title: Protection
@@ -42,73 +40,78 @@ product-family:
       tags: all
     - title: "Setup and administration"
       icon: ./media/icon-admin.png
-      url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
+      url: https://docs.netapp.com/us-en/bluexp-setup-admin/index.html
       summary: "Learn how to start using BlueXP and administer Connectors, accounts, and more."
-      tags: all, admin
+      tags: all,admin
     - title: "Release notes"
       icon: ./media/icon-docs.png
-      url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
+      url: https://docs.netapp.com/us-en/bluexp-relnotes/index.html
       summary: "Learn what's new across all of BlueXP."
       tags: all
     - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-fsx.png
-      url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
+      url: https://docs.netapp.com/us-en/bluexp-fsx-ontap/index.html
       summary: "Use the full capabilities of ONTAP as a native, AWS-managed service."
-      tags: all, storage, aws
+      tags: all,storage,aws
     - title: "Amazon S3 storage"
       icon: ./media/icon-s3.png
       url: https://docs.netapp.com/us-en/bluexp-s3-storage/index.html
       summary: "Discover and manage the Amazon S3 buckets in your AWS accounts."
-      tags: all, storage, aws
+      tags: all,storage,aws
     - title: "API"
       icon: ./media/icon-api.png
-      url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
+      url: https://docs.netapp.com/us-en/bluexp-automation/index.html
       summary: "Programmatically administer your cloud-based resources."
-      tags: all, api
+      tags: all,api
+    - title: "Azure Blob storage"
+      icon: ./media/icon-azure-blob.png
+      url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
+      summary: "Discover and manage Azure Blob storage in your Azure subscriptions."
+      tags: all,storage
     - title: "Azure NetApp Files"
       icon: ./media/icon-anf.png
-      url: https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/index.html
+      url: https://docs.netapp.com/us-en/bluexp-azure-netapp-files/index.html
       summary: "High-performance file storage service for your core business applications."
-      tags: all, storage, azure
+      tags: all,storage,azure
     - title: "Backup and recovery (Cloud Backup)"
       icon: ./media/icon-backup.png
-      url: https://docs.netapp.com/us-en/cloud-manager-backup-restore/index.html
+      url: https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html
       summary: "Back up and restore cloud and on-prem data."
-      tags: all, aws, azure, gcp, protection
+      tags: all,aws,azure,gcp,protection
     - title: "Classification (Cloud Data Sense)"
       icon: ./media/icon-data-sense.png
-      url: https://docs.netapp.com/us-en/cloud-manager-data-sense/index.html
+      url: https://docs.netapp.com/us-en/bluexp-classification/index.html
       summary: "Get your application data and cloud environments privacy ready."
-      tags: all, governance, aws, azure, gcp
+      tags: all,governance,aws,azure,gcp
     - title: "Cloud ops (Compute)"
       icon: ./media/icon-compute.png
-      url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
+      url: https://docs.netapp.com/us-en/bluexp-cloud-ops/index.html
       summary: "Gain visibility into your cloud compute spending and identify potential savings."
-      tags: all, aws, extension
+      tags: all,aws,extension
     - title: "Cloud Volumes ONTAP"
       icon: ./media/icon-cvo.png
-      url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
+      url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html
       summary: "Make your cloud storage more affordable, intelligent, compliant, and secure."
-      tags: all, storage, aws, azure, gcp
+      tags: all,storage,aws,azure,gcp
     - title: "Cloud Volumes Service for Google Cloud"
       icon: ./media/icon-cvs.png
-      url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/index.html
+      url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-service-gcp/index.html
       summary: "Secure, protect, and accelerate your file storage."
-      tags: all, storage, gcp
+      tags: all,storage,gcp
     - title: "Copy and sync (Cloud Sync)"
       icon: ./media/icon-sync.png
-      url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
+      url: https://docs.netapp.com/us-en/bluexp-copy-sync/index.html
       summary: "Sync data between on-prem and cloud data stores."
-      tags: all, aws, azure, gcp, mobility
+      tags: all,aws,azure,gcp,mobility
     - title: "Digital advisor (Active IQ)"
       icon: ./media/icon-activeiq.png
       url: https://docs.netapp.com/us-en/active-iq/index.html
-      tags: all, health
+      tags: all,health
       summary: "Actionable intelligence for optimal storage health."
     - title: "Digital wallet"
       icon: ./media/digital-wallet.png
       url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
-      tags: all, governance
+      tags: all,governance
       summary: "Manage and monitor your licenses and subscriptions."
     - title: "Disaster recovery"
       icon: ./media/icon-disaster-recovery.png
@@ -117,57 +120,76 @@ product-family:
       summary: Protect on-premises VMware workloads using VMware Cloud on Amazon FSx for ONTAP as a disaster recovery site.
     - title: "E-Series systems"
       icon: ./media/icon-e-series.png
-      url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
+      url: https://docs.netapp.com/us-en/bluexp-e-series/index.html
       summary: "Discover E-Series systems for a complete view of data across your hybrid multicloud."
-      tags: all, storage
+      tags: all,storage
     - title: "Economic efficiency"
       icon: ./media/icon-economic-efficiency.png
       url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
       summary: "Identify clusters with current or forecasted low capacity and implement data tiering or additional capacity recommendations."
-      tags: all, governance
+      tags: all,governance
     - title: "Edge caching (Global File Cache)"
       icon: ./media/icon-cache.png
-      url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
+      url: https://docs.netapp.com/us-en/bluexp-edge-caching/index.html
       summary: "Enable real-time global file sharing for your distributed workforce."
-      tags: all, mobility, aws, azure, gcp
+      tags: all,mobility,aws,azure,gcp
+    - title: "Google Cloud Storage"
+      icon: ./media/icon-google-cloud-storage.png
+      url: https://docs.netapp.com/us-en/bluexp-google-cloud-storage/index.html
+      summary: Discover and manage the Cloud Storage buckets in your Google account.
+      tags: all,storage
     - title: "Kubernetes clusters"
       icon: ./media/icon-kubernetes.png
-      url: https://docs.netapp.com/us-en/cloud-manager-kubernetes/index.html
+      url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
       summary: "Advanced data management of the Kubernetes clusters in your hybrid cloud."
-      tags: all, storage, aws, azure
+      tags: all,storage,aws,azure
+    - title: "Migration reports"
+      icon: ./media/icon-reports.png
+      url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+      summary: "Identify the number of files, depth and breadth of file system trees, largest files, and more in your storage landscape."
+      tags: all,storage
     - title: "On-premises ONTAP clusters"
       icon: ./media/icon-onprem.png
-      url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
+      url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
       summary: "Manage your NetApp AFF and FAS systems from BlueXP by using System Manager and BlueXP's data services."
-      tags: all, storage
+      tags: all,storage
     - title: "Operational resiliency"
       icon: ./media/icon-op-resiliency.png
       url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
       summary: "Implement automated firmware and software configuration risk remediations to maintain the health of ONTAP clusters."
-      tags: all, health
+      tags: all,health
     - title: "Ransomware protection"
       icon: ./media/icon-ransomware.png
-      url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
+      url: https://docs.netapp.com/us-en/bluexp-ransomware-protection/index.html
       summary: "Assess how resilient your data is to a cyber attack."
-      tags: all, governance
-      tags: all, protection
+      tags: all,governance,protection
     - title: "Remediation (AppTemplate)"
       icon: ./media/icon-app-template.png
-      url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
+      url: https://docs.netapp.com/us-en/bluexp-remediation/index.html 
       summary: "Automate actions in BlueXP to speed up provisioning and eliminate manual work."
-      tags: all, health
+      tags: all,health
     - title: "Replication"
       icon: ./media/icon-replication.png
-      url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
+      url: https://docs.netapp.com/us-en/bluexp-replication/index.html
       summary: "Replicate data between storage systems to support backup and disaster recovery."
-      tags: all, protection
+      tags: all,protection
     - title: "StorageGRID"
       icon: ./media/icon-storagegrid.png
-      url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
+      url: https://docs.netapp.com/us-en/bluexp-storagegrid/index.html
       summary: "Discover and manage your StorageGRID systems."
-      tags: all, storage
+      tags: all,storage
+    - title: "Sustainability dashboard"
+      icon: ./media/icon-sustainability.png
+      url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
+      summary: "Analyze the sustainability of your storage systems."
+      tags: all,governance 
     - title: "Tiering (Cloud Tiering)"
       icon: ./media/icon-tiering.png
-      url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
+      url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
       summary: "Extend your on-prem ONTAP storage to the cloud."
-      tags: all, aws, azure, gcp, mobility
+      tags: all,aws,azure,gcp,mobility
+    - title: Volume caching
+      icon: ./media/icon-volume-caching.png
+      url: https://docs.netapp.com/us-en/bluexp-volume-caching/index.html
+      summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes."
+      tags: all,mobility
