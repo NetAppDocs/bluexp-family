@@ -180,7 +180,7 @@ product-family:
       tags: all,storage
     - title: "Sustainability dashboard"
       icon: ./media/icon-sustainability.png
-      url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
+      url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
       summary: "Analyze the sustainability of your storage systems."
       tags: all,governance 
     - title: "Tiering (Cloud Tiering)"
