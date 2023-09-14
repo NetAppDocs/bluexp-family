@@ -1,7 +1,7 @@
 settings:
   name: BlueXP
   platform: cloud
-  search: bluexp-relnotes,bluexp-setup-admin,bluexp-cloud-volumes-ontap,bluexp-ontap-onprem,bluexp-azure-netapp-files,bluexp-fsx-ontap,bluexp-cloud-volumes-service-gcp,bluexp-kubernetes,bluexp-remediation,bluexp-backup-recovery,bluexp-copy-sync,bluexp-classification,bluexp-tiering,bluexp-ransomware-protection,bluexp-replication,bluexp-edge-caching,bluexp-cloud-ops,bluexp-automation,cloud-volumes-ontap-relnotes,bluexp-storagegrid,bluexp-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet,bluexp-blob-storage,bluexp-reports,bluexp-volume-caching,bluexp-disaster-recovery
+  search: bluexp-relnotes,bluexp-setup-admin,bluexp-cloud-volumes-ontap,bluexp-ontap-onprem,bluexp-azure-netapp-files,bluexp-fsx-ontap,bluexp-cloud-volumes-service-gcp,bluexp-kubernetes,bluexp-remediation,bluexp-backup-recovery,bluexp-copy-sync,bluexp-classification,bluexp-tiering,bluexp-replication,bluexp-edge-caching,bluexp-cloud-ops,bluexp-automation,cloud-volumes-ontap-relnotes,bluexp-storagegrid,bluexp-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet,bluexp-blob-storage,bluexp-reports,bluexp-volume-caching,bluexp-disaster-recovery
   internal:
     pdf_enabled: false
   prod:
@@ -158,11 +158,6 @@ product-family:
       url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
       summary: "Implement automated firmware and software configuration risk remediations to maintain the health of ONTAP clusters."
       tags: all,health
-    - title: "Ransomware protection"
-      icon: ./media/icon-ransomware.png
-      url: https://docs.netapp.com/us-en/bluexp-ransomware-protection/index.html
-      summary: "Assess how resilient your data is to a cyber attack."
-      tags: all,governance,protection
     - title: "Remediation (AppTemplate)"
       icon: ./media/icon-app-template.png
       url: https://docs.netapp.com/us-en/bluexp-remediation/index.html 
