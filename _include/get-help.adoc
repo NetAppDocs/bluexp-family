@@ -26,10 +26,6 @@ Search through the BlueXP knowledge base to find helpful articles to troubleshoo
 +
 Join the BlueXP community to follow ongoing discussions or create new ones.
 
-* mailto:ng-cloudmanager-feedback@netapp.com[Feedback email]
-+
-We value your input. Submit feedback to help us improve BlueXP.
-
 == Create a case with NetApp support
 
 In addition to the self-support options above, you can work with a NetApp Support specialist to resolve any issues after you activate support.
