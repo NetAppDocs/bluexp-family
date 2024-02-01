@@ -35,11 +35,6 @@ product-family:
       - title: Storage
         tags: storage
   tiles:
-    - title: "Welcome to BlueXP"
-      icon: ./media/icon-docs.png
-      url: concept-overview.html
-      summary: "Learn about the introduction of BlueXP."
-      tags: all
     - title: "Setup and administration"
       icon: ./media/icon-admin.png
       url: ../bluexp-setup-admin/index.html
@@ -80,17 +75,17 @@ product-family:
       url: ../bluexp-azure-netapp-files/index.html
       summary: "High-performance file storage service for your core business applications."
       tags: all,storage,azure
-    - title: "Backup and recovery (Cloud Backup)"
+    - title: "Backup and recovery"
       icon: ./media/icon-backup.png
       url: ../bluexp-backup-recovery/index.html
       summary: "Back up and restore cloud and on-prem data."
       tags: all,aws,azure,gcp,protection
-    - title: "Classification (Cloud Data Sense)"
+    - title: "Classification"
       icon: ./media/icon-data-sense.png
       url: ../bluexp-classification/index.html
       summary: "Get your application data and cloud environments privacy ready."
       tags: all,governance,aws,azure,gcp
-    - title: "Cloud ops (Compute)"
+    - title: "Cloud ops"
       icon: ./media/icon-compute.png
       url: ../bluexp-cloud-ops/index.html
       summary: "Gain visibility into your cloud compute spending and identify potential savings."
@@ -105,7 +100,7 @@ product-family:
       url: ../bluexp-cloud-volumes-service-gcp/index.html
       summary: "Secure, protect, and accelerate your file storage."
       tags: all,storage,gcp
-    - title: "Copy and sync (Cloud Sync)"
+    - title: "Copy and sync"
       icon: ./media/icon-sync.png
       url: ../bluexp-copy-sync/index.html
       summary: "Sync data between on-prem and cloud data stores."
@@ -135,7 +130,7 @@ product-family:
       url: ../bluexp-economic-efficiency/index.html
       summary: "Identify clusters with current or forecasted low capacity and implement data tiering or additional capacity recommendations."
       tags: all,governance
-    - title: "Edge caching (Global File Cache)"
+    - title: "Edge caching"
       icon: ./media/icon-cache.png
       url: ../bluexp-edge-caching/index.html
       summary: "Enable real-time global file sharing for your distributed workforce."
@@ -165,7 +160,7 @@ product-family:
       url: ../bluexp-operational-resiliency/index.html
       summary: "Implement automated firmware and software configuration risk remediations to maintain the health of ONTAP clusters."
       tags: all,health
-    - title: "Remediation (AppTemplate)"
+    - title: "Remediation"
       icon: ./media/icon-app-template.png
       url: ../bluexp-remediation/index.html 
       summary: "Automate actions in BlueXP to speed up provisioning and eliminate manual work."
@@ -185,7 +180,7 @@ product-family:
       url: ../active-iq/learn_BlueXP_sustainability.html
       summary: "Analyze the sustainability of your storage systems."
       tags: all,governance 
-    - title: "Tiering (Cloud Tiering)"
+    - title: "Tiering"
       icon: ./media/icon-tiering.png
       url: ../bluexp-tiering/index.html
       summary: "Extend your on-prem ONTAP storage to the cloud."
