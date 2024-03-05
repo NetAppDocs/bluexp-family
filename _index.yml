@@ -148,6 +148,11 @@ product-family:
       url: ../bluexp-operational-resiliency/index.html
       summary: "Implement automated firmware and software configuration risk remediations to maintain the health of ONTAP clusters."
       tags: all,health
+    - title: "Ransomware protection"
+      icon: ./media/icon-ransomware.png
+      url: ../bluexp-ransomware-protection/index.html 
+      summary: "Detect anomalies that might result in ransomware attacks. Protect and recover workloads."
+      tags: all,protection
     - title: "Remediation"
       icon: ./media/icon-app-template.png
       url: ../bluexp-remediation/index.html 
