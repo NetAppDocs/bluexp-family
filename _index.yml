@@ -163,6 +163,11 @@ product-family:
       url: ../bluexp-replication/index.html
       summary: "Replicate data between storage systems to support backup and disaster recovery."
       tags: all,protection
+    - title: "Software updates"
+      icon: ./media/icon-software-updates.png
+      url: ../bluexp-software-updates/index.html
+      summary: "Automate the assessment, planning, and execution of ONTAP upgrades."
+      tags: all,health
     - title: "StorageGRID"
       icon: ./media/icon-storagegrid.png
       url: ../bluexp-storagegrid/index.html
