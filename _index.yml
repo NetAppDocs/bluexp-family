@@ -118,11 +118,6 @@ product-family:
       url: ../bluexp-economic-efficiency/index.html
       summary: "Identify clusters with current or forecasted low capacity and implement data tiering or additional capacity recommendations."
       tags: all,governance
-    - title: "Edge caching"
-      icon: ./media/icon-cache.png
-      url: ../bluexp-edge-caching/index.html
-      summary: "Enable real-time global file sharing for your distributed workforce."
-      tags: all,mobility,aws,azure,gcp
     - title: "Google Cloud Storage"
       icon: ./media/icon-google-cloud-storage.png
       url: ../bluexp-google-cloud-storage/index.html
