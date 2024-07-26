@@ -153,11 +153,6 @@ product-family:
       url: ../bluexp-ransomware-protection/index.html 
       summary: "Detect anomalies that might result in ransomware attacks. Protect and recover workloads."
       tags: all,protection
-    - title: "Remediation"
-      icon: ./media/icon-app-template.png
-      url: ../bluexp-remediation/index.html 
-      summary: "Automate actions in BlueXP to speed up provisioning and eliminate manual work."
-      tags: all,health
     - title: "Replication"
       icon: ./media/icon-replication.png
       url: ../bluexp-replication/index.html
