@@ -18,6 +18,8 @@ product-family:
       tags: health
     - title: Mobility
       tags: mobility
+    - title: Monitoring
+      tags: monitoring
     - title: Protection
       tags: protection
     - title: Storage
@@ -37,7 +39,7 @@ product-family:
       icon: ./media/icon-alerts.png
       url: ../bluexp-alerts/index.html
       summary: "Placeholder text."
-      tags: all,storage,aws
+      tags: all,monitoring
     - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-fsx.png
       url: ../bluexp-fsx-ontap/index.html
