@@ -99,7 +99,7 @@ product-family:
       tags: all,health
       summary: "Actionable intelligence for optimal storage health."
     - title: "Digital wallet"
-      icon: ./media/digital-wallet.png
+      icon: ./media/icon-digital-wallet.png
       url: ../bluexp-digital-wallet/index.html
       tags: all,governance
       summary: "Manage and monitor your licenses and subscriptions."
