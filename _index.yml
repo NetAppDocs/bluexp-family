@@ -40,21 +40,6 @@ product-family:
       url: ../bluexp-alerts/index.html
       summary: "Placeholder text."
       tags: all,monitoring
-    - title: "Alerts 2x"
-      icon: ./media/icon-alerts-2x.png
-      url: ../bluexp-alerts/index.html
-      summary: "Placeholder text."
-      tags: all,monitoring
-    - title: "Alerts 1.5x"
-      icon: ./media/icon-alerts-15x.png
-      url: ../bluexp-alerts/index.html
-      summary: "Placeholder text."
-      tags: all,monitoring
-    - title: "Alerts .75x"
-      icon: ./media/icon-alerts-75x.png
-      url: ../bluexp-alerts/index.html
-      summary: "Placeholder text."
-      tags: all,monitoring
     - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-fsx.png
       url: ../bluexp-fsx-ontap/index.html
