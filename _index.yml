@@ -49,7 +49,7 @@ product-family:
       summary: "Programmatically administer your cloud-based resources."
       tags: all,api
     - title: "Automation catalog"
-      icon: ./media/icon-api.png
+      icon: ./media/icon-automation.png
       url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
       summary: "Use scripted solutions to automate the deployment and integration of NetApp products and services."
       tags: all,governance
@@ -99,7 +99,7 @@ product-family:
       tags: all,health
       summary: "Actionable intelligence for optimal storage health."
     - title: "Digital wallet"
-      icon: ./media/digital-wallet.png
+      icon: ./media/icon-digital-wallet.png
       url: ../bluexp-digital-wallet/index.html
       tags: all,governance
       summary: "Manage and monitor your licenses and subscriptions."
