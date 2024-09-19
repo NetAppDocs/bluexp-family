@@ -38,7 +38,7 @@ product-family:
     - title: "Alerts"
       icon: ./media/icon-alerts.png
       url: ../bluexp-alerts/index.html
-      summary: "View issues and potential risks in your ONTAP environment related to capacity, availability, performance, protection, and security."
+      summary: "View issues related to capacity, availability, performance, protection, and security in your ONTAP environment."
       tags: all,monitoring
     - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-fsx.png
