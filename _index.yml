@@ -28,7 +28,7 @@ product-family:
     - title: "Setup and administration"
       icon: ./media/icon-admin.png
       url: ../bluexp-setup-admin/index.html
-      summary: "Learn how to start using BlueXP and administer identity and access management (IAM), Connectors, and more."
+      summary: "Learn how to start using BlueXP and administer identity and access management, Connectors, and more."
       tags: all,admin
     - title: "Release notes"
       icon: ./media/icon-docs.png
