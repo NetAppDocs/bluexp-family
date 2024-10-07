@@ -50,7 +50,7 @@ In addition to the self-support options above, you can work with a NetApp Suppor
 
 * *Working Environment*: If applicable to storage, select *Cloud Volumes ONTAP* or *On-Prem* and then the associated working environment.
 +
-The list of working environments are within scope of the BlueXP account, workspace, and Connector you have selected in the top banner of the service.
+The list of working environments are within scope of the BlueXP organization (or account), project (or workspace), and Connector you have selected in the top banner of the service.
 
 * *Case Priority*: Choose the priority for the case, which can be Low, Medium, High, or Critical.
 +
