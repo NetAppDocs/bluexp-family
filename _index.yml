@@ -8,7 +8,7 @@ product-family:
       class: active
     - title: API
       tags: api
-    - title: Connectors and accounts
+    - title: Connectors and IAM
       tags: admin
     - title: Extensions
       tags: extension
@@ -28,7 +28,7 @@ product-family:
     - title: "Setup and administration"
       icon: ./media/icon-admin.png
       url: ../bluexp-setup-admin/index.html
-      summary: "Learn how to start using BlueXP and administer Connectors, accounts, and more."
+      summary: "Learn how to start using BlueXP and administer BlueXP identity and access management (IAM), Connectors, and more."
       tags: all,admin
     - title: "Release notes"
       icon: ./media/icon-docs.png
