@@ -8,7 +8,7 @@ product-family:
       class: active
     - title: API
       tags: api
-    - title: Connectors and accounts
+    - title: Connectors and IAM
       tags: admin
     - title: Extensions
       tags: extension
@@ -18,6 +18,8 @@ product-family:
       tags: health
     - title: Mobility
       tags: mobility
+    - title: Monitoring
+      tags: monitoring
     - title: Protection
       tags: protection
     - title: Storage
@@ -26,13 +28,18 @@ product-family:
     - title: "Setup and administration"
       icon: ./media/icon-admin.png
       url: ../bluexp-setup-admin/index.html
-      summary: "Learn how to start using BlueXP and administer Connectors, accounts, and more."
+      summary: "Learn how to start using BlueXP and administer identity and access management, Connectors, and more."
       tags: all,admin
     - title: "Release notes"
       icon: ./media/icon-docs.png
       url: ../bluexp-relnotes/index.html
       summary: "Learn what's new across all of BlueXP."
       tags: all
+    - title: "Alerts"
+      icon: ./media/icon-alerts.png
+      url: ../bluexp-alerts/index.html
+      summary: "View issues related to capacity, availability, performance, protection, and security in your ONTAP environment."
+      tags: all,monitoring
     - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-fsx.png
       url: ../bluexp-fsx-ontap/index.html
