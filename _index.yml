@@ -59,7 +59,7 @@ product-family:
       tags: all,api
     - title: "Automation catalog"
       icon: ./media/icon-automation.png
-      url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+      url: ../netapp-automation/solutions/bac-overview.html
       summary: "Use scripted solutions to automate the deployment and integration of NetApp products and services."
       tags: all,governance
     - title: "Azure Blob storage"
@@ -135,7 +135,7 @@ product-family:
     - title: "On-premises ONTAP clusters"
       icon: ./media/icon-onprem.png
       url: ../bluexp-ontap-onprem/index.html
-      summary: "Manage your NetApp AFF and FAS systems from BlueXP by using System Manager and BlueXP's data services."
+      summary: "Manage your on-premises ONTAP clusters from BlueXP by using System Manager and BlueXP's data services."
       tags: all,storage
     - title: "Operational resiliency"
       icon: ./media/icon-op-resiliency.png
