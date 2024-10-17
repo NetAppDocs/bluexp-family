@@ -59,7 +59,7 @@ product-family:
       tags: all,api
     - title: "Automation catalog"
       icon: ./media/icon-automation.png
-      url: ../netapp-automation/solutions/bac-overview.html
+      url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
       summary: "Use scripted solutions to automate the deployment and integration of NetApp products and services."
       tags: all,governance
     - title: "Azure Blob storage"
