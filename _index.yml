@@ -135,7 +135,7 @@ product-family:
     - title: "On-premises ONTAP clusters"
       icon: ./media/icon-onprem.png
       url: ../bluexp-ontap-onprem/index.html
-      summary: "Manage your NetApp AFF and FAS systems from BlueXP by using System Manager and BlueXP's data services."
+      summary: "Manage your on-premises ONTAP clusters from BlueXP by using System Manager and BlueXP's data services."
       tags: all,storage
     - title: "Operational resiliency"
       icon: ./media/icon-op-resiliency.png
