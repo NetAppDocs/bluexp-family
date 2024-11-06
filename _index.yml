@@ -180,7 +180,7 @@ product-family:
       summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes."
       tags: all,mobility
     - title: Workloads
-      icon: ./media/none.png
+      icon: ./media/icon-workloads.png
       url: ../workload-family
       summary: "Design, set up, and operate key workloads using Amazon FSx for NetApp ONTAP."
       tags: all,workloads
