@@ -26,6 +26,8 @@ product-family:
       tags: protection
     - title: Storage
       tags: storage
+    - title: Workloads
+      tags: workloads
   tiles:
     - title: "Setup and administration"
       icon: ./media/icon-admin.png
@@ -177,3 +179,8 @@ product-family:
       url: ../bluexp-volume-caching/index.html
       summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes."
       tags: all,mobility
+    - title: Workloads
+      icon: ./media/icon-workloads.png
+      url: ../workload-family
+      summary: "Design, set up, and operate key workloads using Amazon FSx for NetApp ONTAP."
+      tags: all,workloads
