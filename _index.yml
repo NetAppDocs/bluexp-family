@@ -84,11 +84,6 @@ product-family:
       url: ../bluexp-classification/index.html
       summary: "Get your application data and cloud environments privacy ready."
       tags: all,governance,aws,azure,gcp
-    - title: "Cloud ops"
-      icon: ./media/icon-compute.png
-      url: ../bluexp-cloud-ops/index.html
-      summary: "Gain visibility into your cloud compute spending and identify potential savings."
-      tags: all,aws,extension
     - title: "Cloud Volumes ONTAP"
       icon: ./media/icon-cvo.png
       url: ../bluexp-cloud-volumes-ontap/index.html
