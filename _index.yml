@@ -134,6 +134,11 @@ product-family:
       url: ../bluexp-google-cloud-storage/index.html
       summary: Discover and manage the Cloud Storage buckets in your Google account.
       tags: all,storage
+    - title: "Keystone"
+      icon: ./media/icon-google-cloud-storage.png
+      url: ../keystone-staas/index.html
+      summary: Access and manage your Keystone subscription from BlueXP.
+      tags: all,storage
     - title: "On-premises ONTAP clusters"
       icon: ./media/icon-onprem.png
       url: ../bluexp-ontap-onprem/index.html
