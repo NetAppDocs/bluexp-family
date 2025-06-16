@@ -10,8 +10,6 @@ product-family:
       tags: api
     - title: Connectors
       tags: connectors
-    - title: Extensions
-      tags: extension
     - title: Governance
       tags: governance
     - title: Health
