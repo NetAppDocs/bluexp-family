@@ -1,11 +1,13 @@
 product-family:
-  title: BlueXP documentation
+  title: NetApp Console documentation
   lead: "NetApp BlueXP provides your organization with a single control plane to build, protect, and govern data across your on-premises and cloud environments. Browse the docs by product area or use the search above to find content."
   summary: "NetApp BlueXP provides your organization with a single control plane to build, protect, and govern data across your on-premises and cloud environments. Browse the docs by product area or use the search above to find content."
   sidebarlinks:
     - title: All
       tags: all
       class: active
+    - title: Administration
+      tags: administration
     - title: API
       tags: api
     - title: Connectors
@@ -22,7 +24,7 @@ product-family:
       tags: monitoring
     - title: Protection
       tags: protection
-    - title: Storage
+    - title: Storage management
       tags: storage
     - title: Workloads
       tags: workloads
@@ -35,9 +37,9 @@ product-family:
     - title: "Release notes"
       icon: ./media/icon-docs.png
       url: ../bluexp-relnotes/index.html
-      summary: "Learn what's new across all of BlueXP."
+      summary: "Learn what's new across all of NetApp Console services."
       tags: all
-    - title: "Alerts"
+    - title: "Storage system alerts"
       icon: ./media/icon-alerts.png
       url: ../bluexp-alerts/index.html
       summary: "View issues related to capacity, availability, performance, protection, and security in your ONTAP environment."
@@ -72,7 +74,7 @@ product-family:
       url: ../bluexp-azure-netapp-files/index.html
       summary: "High-performance file storage service in Azure for your core business applications."
       tags: all,storage,azure
-    - title: "Backup and recovery"
+    - title: "Backup and Recovery"
       icon: ./media/icon-backup.png
       url: ../bluexp-backup-recovery/index.html
       summary: "Back up and restore cloud and on-prem data."
@@ -100,7 +102,7 @@ product-family:
     - title: "Digital wallet"
       icon: ./media/icon-digital-wallet.png
       url: ../bluexp-digital-wallet/index.html
-      tags: all,governance
+      tags: all,administration
       summary: "Manage and monitor your licenses and subscriptions."
     - title: "Disaster recovery"
       icon: ./media/icon-disaster-recovery.png
