@@ -41,7 +41,7 @@ product-family:
       icon: ./media/icon-alerts.png
       url: ../bluexp-alerts/index.html
       summary: "View issues related to capacity, availability, performance, protection, and security in your ONTAP environment."
-      tags: all, administration
+      tags: all,administration
     - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-fsx.png
       url: ../bluexp-fsx-ontap/index.html
@@ -116,26 +116,23 @@ product-family:
       summary: "Discover E-Series systems for a complete view of data across your hybrid multicloud."
       tags: all,storage
     - title: "Google Cloud NetApp Volumes"
-      icon: ./media/icon-cvs.png
       url: ../bluexp-google-cloud-netapp-volumes/index.html
       summary: "Secure, protect, and accelerate your file storage."
       tags: all,storage,gcp
     - title: "Google Cloud Storage"
-      icon: ./media/icon-google-cloud-storage.png
       url: ../bluexp-google-cloud-storage/index.html
-      summary: Discover and manage the Cloud Storage buckets in your Google account.
+      summary: "Discover and manage the Cloud Storage buckets in your Google account."
       tags: all,storage
     - title: "Keystone"
       icon: ./media/icon-keystone.png
       url: ../keystone-staas/index.html
-      summary: Access and manage your Keystone subscription from BlueXP.
+      summary: "Access and manage your Keystone subscription from BlueXP."
       tags: all,storage
     - title: "Lifecycle planning"
       url: ../bluexp-economic-efficiency/index.html
       summary: "Identify clusters with current or forecasted low capacity and implement data tiering or additional capacity recommendations."
-      tags: all, health
+      tags: all,health
     - title: "On-premises ONTAP clusters"
-      icon: ./media/icon-onprem.png
       url: ../bluexp-ontap-onprem/index.html
       summary: "Manage your on-premises ONTAP clusters from BlueXP by using System Manager and BlueXP's data services."
       tags: all,storage
@@ -158,7 +155,7 @@ product-family:
       icon: ./media/icon-software-updates.png
       url: ../bluexp-software-updates/index.html
       summary: "Automate the assessment, planning, and execution of ONTAP upgrades."
-      tags: all, administration
+      tags: all,administration
     - title: "StorageGRID"
       icon: ./media/icon-storagegrid.png
       url: ../bluexp-storagegrid/index.html
@@ -174,12 +171,12 @@ product-family:
       url: ../bluexp-tiering/index.html
       summary: "Extend your on-prem ONTAP storage to the cloud."
       tags: all,aws,azure,gcp,mobility
-    - title: Volume caching
+    - title: "Volume caching"
       icon: ./media/icon-volume-caching.png
       url: ../bluexp-volume-caching/index.html
       summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes."
       tags: all,mobility
-    - title: Workloads
+    - title: "Workloads"
       icon: ./media/icon-workloads.png
       url: ../workload-family
       summary: "Design, set up, and operate key workloads using Amazon FSx for NetApp ONTAP."
