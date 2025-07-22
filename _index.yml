@@ -87,11 +87,6 @@ product-family:
       url: ../bluexp-cloud-volumes-ontap/index.html
       summary: "Make your cloud storage more affordable, intelligent, compliant, and secure."
       tags: all,storage,aws,azure,gcp
-    - title: "Cloud Volumes Service for Google Cloud"
-      icon: ./media/icon-cvs.png
-      url: ../bluexp-cloud-volumes-service-gcp/index.html
-      summary: "Secure, protect, and accelerate your file storage."
-      tags: all,storage,gcp
     - title: "Copy and sync"
       icon: ./media/icon-sync.png
       url: ../bluexp-copy-sync/index.html
@@ -122,6 +117,11 @@ product-family:
       url: ../bluexp-economic-efficiency/index.html
       summary: "Identify clusters with current or forecasted low capacity and implement data tiering or additional capacity recommendations."
       tags: all,governance
+    - title: "Google Cloud NetApp Volumes"
+      icon: ./media/icon-cvs.png
+      url: ../bluexp-google-cloud-netapp-volumes/index.html
+      summary: "Secure, protect, and accelerate your file storage."
+      tags: all,storage,gcp
     - title: "Google Cloud Storage"
       icon: ./media/icon-google-cloud-storage.png
       url: ../bluexp-google-cloud-storage/index.html
