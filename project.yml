@@ -11,5 +11,5 @@ settings:
     lipi_enabled: false
 sidebar:
   entries:
-    - title: All BlueXP documentation
+    - title: NetApp Console and NetApp data services documentation
       url: /index.html
