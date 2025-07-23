@@ -1,7 +1,7 @@
 product-family:
   title: NetApp Console documentation
   lead: "NetApp BlueXP provides your organization with a single control plane to build, protect, and govern data across your on-premises and cloud environments. Browse the docs by product area or use the search above to find content."
-  summary: "NetApp BlueXP provides your organization with a single control plane to build protect, and govern data across your on-premises and cloud environments. Browse the docs by product area or use the search above to find content."
+  summary: "NetApp Console provides your organization with a single control plane to build protect, and govern data across your on-premises and cloud environments. Browse the docs by product area or use the search above to find content."
   sidebarlinks:
     - title: All
       tags: all
@@ -42,16 +42,6 @@ product-family:
       url: ../bluexp-alerts/index.html
       summary: "View issues related to capacity, availability, performance, protection, and security in your ONTAP environment."
       tags: all,administration
-    - title: "Amazon FSx for NetApp ONTAP"
-      icon: ./media/icon-fsx.png
-      url: ../bluexp-fsx-ontap/index.html
-      summary: "Use the full capabilities of ONTAP as a native, AWS-managed service."
-      tags: all,storage,aws
-    - title: "Amazon S3 storage"
-      icon: ./media/icon-s3.png
-      url: ../bluexp-s3-storage/index.html
-      summary: "Discover and manage the Amazon S3 buckets in your AWS accounts."
-      tags: all,storage,aws
     - title: "API"
       icon: ./media/icon-api.png
       url: https://docs.netapp.com/us-en/bluexp-automation/index.html
@@ -65,36 +55,6 @@ product-family:
       url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
       summary: "Use scripted solutions to automate the deployment and integration of NetApp products and services."
       tags: all,governance
-    - title: "Azure Blob storage"
-      icon: ./media/icon-azure-blob.png
-      url: ../bluexp-blob-storage/index.html
-      summary: "Discover and manage Azure Blob storage in your Azure subscriptions."
-      tags: all,storage
-    - title: "Azure NetApp Files"
-      icon: ./media/icon-anf.png
-      url: ../bluexp-azure-netapp-files/index.html
-      summary: "High-performance file storage service in Azure for your core business applications."
-      tags: all,storage,azure
-    - title: "Backup and Recovery"
-      icon: ./media/icon-backup.png
-      url: ../bluexp-backup-recovery/index.html
-      summary: "Back up and restore cloud and on-prem data."
-      tags: all,aws,azure,gcp,protection
-    - title: "Classification"
-      icon: ./media/icon-data-sense.png
-      url: ../bluexp-classification/index.html
-      summary: "Get your application data and cloud environments privacy ready."
-      tags: all,governance,aws,azure,gcp
-    - title: "Cloud Volumes ONTAP"
-      icon: ./media/icon-cvo.png
-      url: ../bluexp-cloud-volumes-ontap/index.html
-      summary: "Make your cloud storage more affordable, intelligent, compliant, and secure."
-      tags: all,storage,aws,azure,gcp
-    - title: "Copy and sync"
-      icon: ./media/icon-sync.png
-      url: ../bluexp-copy-sync/index.html
-      summary: "Sync data between on-prem and cloud data stores."
-      tags: all,aws,azure,gcp,mobility
     - title: "Digital advisor (Active IQ)"
       icon: ./media/icon-activeiq.png
       url: ../active-iq/index.html
@@ -105,79 +65,33 @@ product-family:
       url: ../bluexp-digital-wallet/index.html
       tags: all,administration
       summary: "Manage and monitor your licenses and subscriptions."
-    - title: "Disaster recovery"
-      icon: ./media/icon-disaster-recovery.png
-      url: ../bluexp-disaster-recovery/index.html
-      tags: all,protection
-      summary: "Protect on-premises VMware workloads using VMware Cloud on Amazon FSx for ONTAP as a disaster recovery site."
-    - title: "E-Series systems"
-      icon: ./media/icon-e-series.png
-      url: ../bluexp-e-series/index.html
-      summary: "Discover E-Series systems for a complete view of data across your hybrid multicloud."
-      tags: all,storage
-    - title: "Google Cloud NetApp Volumes"
-      url: ../bluexp-google-cloud-netapp-volumes/index.html
-      summary: "Secure, protect, and accelerate your file storage."
-      tags: all,storage,gcp
-    - title: "Google Cloud Storage"
-      url: ../bluexp-google-cloud-storage/index.html
-      summary: "Discover and manage the Cloud Storage buckets in your Google account."
-      tags: all,storage
-    - title: "Keystone"
-      icon: ./media/icon-keystone.png
-      url: ../keystone-staas/index.html
-      summary: "Access and manage your Keystone subscription from BlueXP."
-      tags: all,storage
     - title: "Lifecycle planning"
       url: ../bluexp-economic-efficiency/index.html
       summary: "Identify clusters with current or forecasted low capacity and implement data tiering or additional capacity recommendations."
       tags: all,health
-    - title: "On-premises ONTAP clusters"
-      url: ../bluexp-ontap-onprem/index.html
-      summary: "Manage your on-premises ONTAP clusters from BlueXP by using System Manager and BlueXP's data services."
-      tags: all,storage
     - title: "Operational resiliency"
       icon: ./media/icon-op-resiliency.png
       url: ../bluexp-operational-resiliency/index.html
       summary: "Implement automated firmware and software configuration risk remediations to maintain the health of ONTAP clusters."
       tags: all,health
-    - title: "Ransomware protection"
-      icon: ./media/icon-ransomware.png
-      url: ../bluexp-ransomware-protection/index.html 
-      summary: "Detect anomalies that might result in ransomware attacks. Protect and recover workloads."
-      tags: all,protection
-    - title: "Replication"
-      icon: ./media/icon-replication.png
-      url: ../bluexp-replication/index.html
-      summary: "Replicate data between storage systems to support backup and disaster recovery."
-      tags: all,protection
     - title: "Software updates"
       icon: ./media/icon-software-updates.png
       url: ../bluexp-software-updates/index.html
       summary: "Automate the assessment, planning, and execution of ONTAP upgrades."
       tags: all,administration
-    - title: "StorageGRID"
-      icon: ./media/icon-storagegrid.png
-      url: ../bluexp-storagegrid/index.html
-      summary: "Discover and manage your StorageGRID systems."
-      tags: all,storage
     - title: "Sustainability dashboard"
       icon: ./media/icon-sustainability.png
       url: ../active-iq/learn_BlueXP_sustainability.html
       summary: "Analyze the sustainability of your storage systems."
       tags: all,health
-    - title: "Tiering"
+    - title: "NetApp data services"
       icon: ./media/icon-tiering.png
       url: ../bluexp-tiering/index.html
-      summary: "Extend your on-prem ONTAP storage to the cloud."
+      summary: "Explore NetApp data services to secure and protect your data infrastructure."
       tags: all,aws,azure,gcp,mobility
-    - title: "Volume caching"
+    - title: "Storage management with the NetApp Console"
       icon: ./media/icon-volume-caching.png
       url: ../bluexp-volume-caching/index.html
-      summary: "Create a writable cache volume to speed up access to data or offload traffic from heavily accessed volumes."
+      summary: "Manage all of your hybrid multicloud storage resources from the NetApp Console."
       tags: all,mobility
-    - title: "Workloads"
-      icon: ./media/icon-workloads.png
-      url: ../workload-family
-      summary: "Design, set up, and operate key workloads using Amazon FSx for NetApp ONTAP."
-      tags: all,workloads
+   

@@ -11,5 +11,35 @@ settings:
     lipi_enabled: false
 sidebar:
   entries:
-    - title: NetApp Console and NetApp data services documentation
-      url: /index.html
+    - title: "Setup and administration"
+      url: ../bluexp-setup-admin/index.html
+    - title: "Release notes"
+      icon: ./media/icon-docs.png
+      url: ../bluexp-relnotes/index.html
+      summary: "Learn what's new across all of NetApp Console and NetApp data services"
+      tags: all
+    - title: "Storage system alerts"
+      url: ../bluexp-alerts/index.html
+    - title: "API"
+      url: https://docs.netapp.com/us-en/bluexp-automation/index.html
+    - title: "Audit"
+      url: https://docs.netapp.com/us-en/bluexp-automation/index.html
+    - title: "Automation catalog"
+      url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    - title: "Digital advisor (Active IQ)"
+      url: ../active-iq/index.html
+    - title: "Digital wallet"
+      url: ../bluexp-digital-wallet/index.html
+    - title: "Lifecycle planning"
+      url: ../bluexp-economic-efficiency/index.html
+    - title: "Operational resiliency"
+      url: ../bluexp-operational-resiliency/index.html
+    - title: "Software updates"
+      url: ../bluexp-software-updates/index.html
+    - title: "Sustainability dashboard"
+      icon: ./media/icon-sustainability.png
+      url: ../active-iq/learn_BlueXP_sustainability.html
+    - title: "NetApp data services"
+      url: ../bluexp-tiering/index.html
+    - title: "Storage management with the NetApp Console"
+      url: ../bluexp-volume-caching/index.html
