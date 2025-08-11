@@ -75,7 +75,7 @@ product-family:
     - title: "Backup and recovery"
       icon: ./media/icon-backup.png
       url: ../bluexp-backup-recovery/index.html
-      summary: "Back up and restore cloud and on-prem data."
+      summary: "Back up and restore cloud and on-premises data."
       tags: all,aws,azure,gcp,protection
     - title: "Classification"
       icon: ./media/icon-data-sense.png
