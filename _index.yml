@@ -137,11 +137,6 @@ product-family:
       url: ../bluexp-ontap-onprem/index.html
       summary: "Manage your on-premises ONTAP clusters from BlueXP by using System Manager and BlueXP's data services."
       tags: all,storage
-    - title: "Operational resiliency"
-      icon: ./media/icon-op-resiliency.png
-      url: ../bluexp-operational-resiliency/index.html
-      summary: "Implement automated firmware and software configuration risk remediations to maintain the health of ONTAP clusters."
-      tags: all,health
     - title: "Ransomware protection"
       icon: ./media/icon-ransomware.png
       url: ../bluexp-ransomware-protection/index.html 
